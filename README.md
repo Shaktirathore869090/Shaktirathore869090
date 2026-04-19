@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Shaktirathore869090/Shaktirathore869090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shakti Rathore
 
-Here are some ideas to get you started:
+### 🚀 DevOps Engineer | ☁️ Cloud | ⚙️ Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux;Building+Reliable+Systems" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,github,bash,python,php,mysql,vscode" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Shakti Rathore
+role: DevOps Engineer
+experience: 2+ Years IT Experience
+focus:
+  - CI/CD Pipelines
+  - Cloud Infrastructure
+  - Kubernetes Deployments
+  - Automation & Scripting
+  - Linux Administration
+status: Open to DevOps Opportunities
