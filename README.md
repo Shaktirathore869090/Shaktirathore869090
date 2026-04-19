@@ -1,14 +1,22 @@
+<div align="center">
+
 # 👋 Hi, I'm Shakti Rathore
 
-### 🚀 DevOps Engineer | Cloud | Automation
+### 🚀 DevOps Engineer | ☁️ Cloud | ⚙️ Automation
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux;Building+Reliable+Systems)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux;Building+Reliable+Systems" />
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,github,bash,python,php,mysql,vscode)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,github,bash,python,php,mysql,vscode" />
+
+</div>
 
 ---
 
