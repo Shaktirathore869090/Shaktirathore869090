@@ -33,3 +33,11 @@ focus:
   - Automation & Scripting
   - Linux Administration
 status: Open to DevOps Opportunities
+
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+
+🌐 Connect
+
+📧 dpshaktirathore.123@gmail.com
+
+💼 LinkedIn: Add Your Profile Link
