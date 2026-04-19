@@ -15,12 +15,13 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,github,bash,python,php,mysql,vscode" />
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaktirathore869090
-&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaktirathore869090
-&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+
 
 </div>
 
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaktirathore869090
+&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaktirathore869090
+&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 ---
 
 ## 🚀 About Me
